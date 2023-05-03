@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a computer animation artist and soon-to-be developer.
+I'm currently learning JavaScript and C#.
+I collect retro video game consoles and mod Game Boys for fun.
