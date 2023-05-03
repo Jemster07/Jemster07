@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a computer animation artist and soon-to-be developer.
+<br/>
 I'm currently learning JavaScript and C#.
+<br/>
 I collect retro video game consoles and mod Game Boys for fun.
