@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a computer animation artist and soon-to-be developer.
+I'm a computer animation artist and software developer.
 <br/>
-I'm currently learning JavaScript and C#.
+I'm currently learning C# and JavaScript.
 <br/>
 I collect retro video game consoles and mod Game Boys for fun.
