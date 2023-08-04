@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a computer animation artist and software developer.
-<br/>
-I'm currently learning C# and JavaScript.
-<br/>
-I collect retro video game consoles and mod Game Boys for fun.
+The world is filled with endless possibilities - and I believe that creativity is the key to unlocking its hidden potential. I’ve always been someone who spends her time dreaming up new worlds and pondering solutions to challenges, just to experience the satisfaction that comes from developing a new idea. Art has long been my medium of choice for exploring what my imagination holds. From staying agile while navigating the fast-paced tech startup world, to rapidly conceptualizing new motion design concepts for an internationally-recognized baby gear brand - I’ve learned that it takes more than just a propensity towards artistic expression to build a tried-and-true problem-solver.
+
+When I first took the leap into software development, I was surprised to find that trading in storyboards for process diagrams could feel like a parallel shift rather than a linear one. In fact, making use of the ingenuity, patience, and team camaraderie my previous roles have forged within me makes the journey as enjoyable as it is exciting. I’m delighted to have new tools at my disposal to engineer clean, efficient solutions to a new array of challenges. But most of all, I’m looking forward to joining (and learning from) a team of inquisitive, creatively-minded developers just like me.
